@@ -33,6 +33,15 @@ I work AI-native - not using AI as a tool, but as the medium I think and build i
 | **[Yellow Door Houses](https://yellowdoorhouses.com)** | Zillow-style real estate financial analysis platform |
 | **[Potrashot.com](https://potrashot.com)** | Multi-tenant photography SaaS (3 apps) |
 
+### 🧪 Featured GitHub Builds
+
+| Repository | Detail |
+|-------------|--------|
+| **[llm-fs](https://github.com/Apurva-Shethia/llm-fs)** | LLM-powered file assistant for safe read/search/write workflows |
+| **[event-management](https://github.com/Apurva-Shethia/event-management)** | Virtual event management backend with JWT auth and role-based access |
+| **[lyrical-app](https://github.com/Apurva-Shethia/lyrical-app)** | Frontend-only lyric visualization app with local sentiment analysis |
+| **[parking-system](https://github.com/Apurva-Shethia/parking-system)** | Parking system kata/project repository |
+
 ## 🏆 Achievements
 
 | Achievement | Detail |
@@ -45,7 +54,7 @@ I work AI-native - not using AI as a tool, but as the medium I think and build i
 ## ⚡ Currently
 
 **AI-First Full-Stack Engineer**  
-Shipping production features via agentic workflows | Maintaining TransitFare, Yellow Door, Potrashot
+Shipping production features via agentic workflows | Maintaining TransitFare, Yellow Door, Potrashot | Building llm-fs and event-management experiments
 
 ## 🧠 How I Work
 
